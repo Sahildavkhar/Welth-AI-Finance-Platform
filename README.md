@@ -12,7 +12,7 @@
 💳 Multi-account and credit card management<br>
 
 
-🛠 **Tech Stack** 
+🛠 **Tech Stack** <br>
 Frontend: Next.js, Tailwind CSS<br>
 Backend: Node.js, Express<br>
 Database: PostgreSQL, Prisma<br>
