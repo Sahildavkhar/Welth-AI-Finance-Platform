@@ -23,7 +23,7 @@ Hosting: Vercel
 
 ## Interface
 
-![App Screenshot](public/Screenshot 2025-07-13 121941.png)
+![App Screenshot]([public/Screenshot 2025-07-13 121941.png](https://github.com/Sahildavkhar/Welth-AI-Finance-Platform/blob/73b77397badff84ded76c3bbd02d442b43a3d039/Screenshot%202025-07-13%20121941.png))
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
