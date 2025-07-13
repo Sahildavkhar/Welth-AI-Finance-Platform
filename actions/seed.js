@@ -62,9 +62,9 @@ export async function seedTransactions() {
           id: crypto.randomUUID(),
           type,
           amount,
-          description: `${
+          description: `{
             type === "INCOME" ? "Received" : "Paid for"
-          } ${category}`,
+          } ₹{category}`,
           date,
           category,
           status: "COMPLETED",
@@ -100,7 +100,7 @@ export async function seedTransactions() {
 
     return {
       success: true,
-      message: `Created ${transactions.length} transactions`,
+      message: `Created ₹{transactions.length} transactions`,
     };
   } catch (error) {
     console.error("Error seeding transactions:", error);
