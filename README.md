@@ -1,3 +1,31 @@
+
+# Welth - AI Finance Platform
+
+**Welth** is an AI-powered finance platform that helps you seamlessly manage your daily transactions, gain smart insights into your spending habits, and stay on top of your budget. With features like automated analytics, budget alerts, monthly summary reports, multi-currency and account support, and an intelligent receipt scanner, Welth makes personal finance effortless and intelligent—all in one modern, user-friendly platform.
+## Features
+
+💡 AI-powered financial insights
+📩 Monthly summary reports via email
+📈 Budget planning with smart alerts
+🧾 Receipt scanning using OCR and AI
+💳 Multi-account and credit card management
+💱 Real-time multi-currency support
+
+
+🛠 **Tech Stack** 
+Frontend: Next.js, Tailwind CSS
+Backend: Node.js, Express
+Database: PostgreSQL, Prisma
+Authentication: Clerk
+Email Alerts: Resend
+Hosting: Vercel
+
+
+## Interface
+
+![App Screenshot](https://drive.google.com/file/d/1iMw8HXvFzLCl3xpun72ntlwNCL5XQr-t/view?usp=sharing)
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -20,14 +48,6 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
 ## Deploy on Vercel
 
