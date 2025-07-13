@@ -23,7 +23,7 @@ Hosting: Vercel
 
 ## Interface
 
-![App Screenshot](https://drive.google.com/file/d/1iMw8HXvFzLCl3xpun72ntlwNCL5XQr-t/view?usp=sharing)
+![App Screenshot](public/Screenshot 2025-07-13 121941.png)
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
