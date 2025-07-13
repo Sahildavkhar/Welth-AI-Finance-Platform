@@ -4,7 +4,7 @@
 **Welth** is an AI-powered finance platform that helps you seamlessly manage your daily transactions, gain smart insights into your spending habits, and stay on top of your budget. With features like automated analytics, budget alerts, monthly summary reports, multi-currency and account support, and an intelligent receipt scanner, Welth makes personal finance effortless and intelligent—all in one modern, user-friendly platform.
 ## Features
 
-💡 AI-powered financial insights
+💡 AI-powered financial insights<br>
 📩 Monthly summary reports via email
 📈 Budget planning with smart alerts
 🧾 Receipt scanning using OCR and AI
