@@ -16,9 +16,9 @@
 
 Frontend: Next.js, Tailwind CSS<br>
 Backend: Node.js, Express<br>
-Database: PostgreSQL, Prisma<br>
+Database: Supabase, Prisma<br>
 Authentication: Clerk<br>
-Email Alerts: Resend<br>
+Email Alerts: Resend.js<br>
 Hosting: Vercel
 
 
