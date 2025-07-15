@@ -15,7 +15,7 @@
 🛠 **Tech Stack** 🛠<br>
 
 Frontend: Next.js, Tailwind CSS<br>
-Backend: Innjest Server, Clerk Auth<br>
+Backend: Innjest Server<br>
 Database: Supabase, Prisma<br>
 Authentication: Clerk<br>
 Security: Arcjet<br>
