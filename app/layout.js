@@ -16,9 +16,13 @@ export default function RootLayout({ children }) {
     <ClerkProvider>
       <html lang="en">
         <head>
-          <link rel="icon" href="/logo-sm.png" sizes="any" />
+          {/* Favicon */}
+          <link rel="icon" href="/app/favicon.ico" sizes="48x48" type="image/png" />
+          <link rel="shortcut icon" href="/app/favicon.ico" type="image/png" />
+          <meta name="theme-color" content="#0f172a" />
+          <meta name="viewport" content="width=device-width, initial-scale=1" />
         </head>
-        <body className={`${inter.className}`}>
+        <body className={inter.className}>
           <Header />
           <main className="min-h-screen">{children}</main>
           <Toaster richColors />
