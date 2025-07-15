@@ -2,28 +2,32 @@
 # Welth - AI Finance Platform
 
 **Welth** is an AI-powered finance platform that helps you seamlessly manage your daily transactions, gain smart insights into your spending habits, and stay on top of your budget. With features like automated analytics, budget alerts, monthly summary reports, multi-currency and account support, and an intelligent receipt scanner, Welth makes personal finance effortless and intelligent—all in one modern, user-friendly platform.
+
 ## Features
 
-💡 AI-powered financial insights
-📩 Monthly summary reports via email
-📈 Budget planning with smart alerts
-🧾 Receipt scanning using OCR and AI
-💳 Multi-account and credit card management
-💱 Real-time multi-currency support
+💡 AI-powered financial insights<br>
+📩 Monthly summary reports via email<br>
+📈 Budget planning with smart alerts<br>
+🧾 Receipt scanning using OCR and AI<br>
+💳 Multi-account and credit card management<br>
 
 
-🛠 **Tech Stack** 
-Frontend: Next.js, Tailwind CSS
-Backend: Node.js, Express
-Database: PostgreSQL, Prisma
-Authentication: Clerk
-Email Alerts: Resend
+🛠 **Tech Stack** 🛠<br>
+
+Frontend: Next.js, Tailwind CSS<br>
+Backend: Node.js, Express<br>
+Database: Supabase, Prisma<br>
+Authentication: Clerk<br>
+Email Alerts: Resend.js<br>
 Hosting: Vercel
 
 
 ## Interface
 
-![App Screenshot](https://drive.google.com/file/d/1iMw8HXvFzLCl3xpun72ntlwNCL5XQr-t/view?usp=sharing)
+![App Screenshot](https://github.com/Sahildavkhar/Welth-AI-Finance-Platform/blob/73b77397badff84ded76c3bbd02d442b43a3d039/Screenshot%202025-07-13%20121941.png)
+![App Screenshot](https://github.com/Sahildavkhar/Welth-AI-Finance-Platform/blob/8ec773480ac4c48b624927bedf87f1e2670f2e72/public/Screenshot%202025-07-13%20122058.png)
+![App Screenshot](https://github.com/Sahildavkhar/Welth-AI-Finance-Platform/blob/8ec773480ac4c48b624927bedf87f1e2670f2e72/public/Screenshot%202025-07-13%20122132.png)
+![App Screenshot](https://github.com/Sahildavkhar/Welth-AI-Finance-Platform/blob/8ec773480ac4c48b624927bedf87f1e2670f2e72/public/Screenshot%202025-07-13%20122155.png)
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
