@@ -9,16 +9,16 @@
 📩 Monthly summary reports via email<br>
 📈 Budget planning with smart alerts<br>
 🧾 Receipt scanning using OCR and AI<br>
-💳 Multi-account and credit card management<br>
+💳 Clean, modern UI optimized for usability<br>
 
 
 🛠 **Tech Stack** 🛠<br>
 
 Frontend: Next.js, Tailwind CSS<br>
-Backend: Node.js, Express<br>
+Backend: Innjest Server<br>
 Database: Supabase, Prisma<br>
 Authentication: Clerk<br>
-Email Alerts: Resend.js<br>
+Security: Arcjet<br>
 Hosting: Vercel
 
 
